@@ -1,0 +1,27 @@
+.simpleForm{
+    width: 60%;
+   margin: auto;
+   margin-top: 10%;
+  background-color: #eedcdc3d;
+  padding: 60px;
+  border-radius: 20px;
+}
+
+.albumsview , .pictures{
+    padding: 20px;
+    background-color: #eedcdc3d;
+}
+
+.deleteOptions , #albumsList {
+    padding: 20px;
+    background-color: #eedcdc3d;
+    width: 10%;
+    list-style: none;
+    position: absolute;
+    top: 50%;
+    left: -10%;
+}
+
+.error{
+    color: red;
+}
